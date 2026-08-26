@@ -2,7 +2,9 @@
 
 An end-to-end Business Intelligence solution that models, analyzes, and visualizes workforce metrics across **10,000+ localized synthetic employee records**. Built using T-SQL, a custom star schema data architecture, and narrative-driven Power BI dashboards.
 
-![Dashboard Overview](./visuals/01_executive_overview.png) *(Replace with your primary dashboard image path)*
+<p align="center">
+  <img src="visuals/04.Talent_Mobility.png" alt="Nexora HR Dashboard Overview" width="100%">
+</p>
 
 ---
 
